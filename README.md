@@ -11,7 +11,7 @@ I am a full stack developer with specialization in the MERN stack. I especially 
 *   🧠  I'm learning GraphQL
 *   🤝  I'm open to collaborating on Javascript projects<a href="https://www.twitter.com/Stephen Afari" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Stephen Afari?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
