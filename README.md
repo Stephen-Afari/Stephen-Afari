@@ -8,7 +8,7 @@ I am a full stack developer with specialization in the MERN stack. I especially 
 
 *   🌍  I'm based in Ghana
 *   ✉️  You can contact me at [demorganafari@gmail.com](mailto:demorganafari@gmail.com)
-*   🧠  I'm learning GraphQL
+*   🧠  I'm learning NextJs
 *   🤝  I'm open to collaborating on Javascript projects  <a href="https://www.twitter.com/Stephen Afari" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Stephen Afari?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
