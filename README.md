@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a full stack developer with specialization in the MERN stack. I especially have a softspot for React/Redux and NodeJs and associated technologies. I love to learn and continue to learn to develop my craft.
+I am a full stack developer with specialization in the MERN stack. I especially have a softspot for Javascript, Typescript, React/Redux and NodeJs and associated technologies. I love to learn and continue to learn to develop my craft.
 
 *   🌍  I'm based in Ghana
 *   ✉️  You can contact me at [demorganafari@gmail.com](mailto:demorganafari@gmail.com)
